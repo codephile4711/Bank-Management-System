@@ -2,9 +2,9 @@
 
 A full-fledged, robust Bank Management System built using Core Java, Java Swing, and SQLite. This project implements the **Model-View-Controller (MVC)** architecture and uses the **Data Access Object (DAO)** pattern for seamless database interactions. 
 
-###✨ Features
+✨ Features
 
-###👨‍💼 Admin Dashboard
+👨‍💼 Admin Dashboard
 * **Customer Management**: Create new customers and assign them Savings or Current accounts securely.
 * **View All Customers**: A comprehensive grid displaying all registered customers and their contact details.
 * **Audit Trail**: Every action performed by an Admin (like account creations) is permanently logged with timestamps for security.
